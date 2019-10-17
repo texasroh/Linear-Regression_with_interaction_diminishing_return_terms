@@ -8,6 +8,7 @@ Make linear regression model with interaction and diminishing-return terms. Coul
 <p>Explanatory Data Analysis.<br>
 Explain each components' effect to the sales.</p>
 ---------------------
+-----------------
 <h3>Input Variables</h3>
 <ul>
   <li>Rebate: $ amount for each purchase.</li>
