@@ -56,8 +56,8 @@ model.plot()
 <h2>Academic Project</h2>
 <p>Explanatory Data Analysis.<br>
 Explain each components' effect to the sales.</p>
-<p>Look at <strong><a href="https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/project%201.ipynb">project 1.ipynb</a></strong> for more detail<br>
-If Github fail to render notebook file, please try <a href="https://nbviewer.jupyter.org/github/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/project%201.ipynb">here</a></p>
+<p>Look at <strong><a href="https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/project_1.ipynb">project 1.ipynb</a></strong> for more detail<br>
+If Github fail to render notebook file, please try <a href="https://nbviewer.jupyter.org/github/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/project_1.ipynb">here</a></p>
 <p>Dataset: <a href="https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/project1.2.csv">project1.2.csv</a>  (Artificially generated for Academic purpose)</p>
 
 <h3>Input Variables</h3>
