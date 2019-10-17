@@ -1,6 +1,8 @@
 # Linear-Regression<br>_with_interaction_diminishing_return_terms
 Make linear regression model with interaction and diminishing-return terms. Could get p-value of each terms
 
+<strong>linear_regression.py</strong>
+
 
 <h2>Documentation</h2>
 
