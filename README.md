@@ -21,7 +21,7 @@ Target
 </ul>
 
 Full Model
-<div>$Sales = c[0] + c[1] \left [ \frac{1-e^{-x[0]\cdot c[7]}}{b} \right ] + c[2] \left [ \frac{1-e^{-x[1]\cdot c[8]}}{b} \right ] + c[3]\cdot x[2] + c[4]( x[0]\cdot x[2])+c[5]( x[1]\cdot x[2])+c[6](x[0]\cdot x[1])$</div>
+![Full_model](https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/image/full_model.PNG)
 
 Restricted Model (Final Model)
-<div>$Sales = c[0] + c[1] \left [ \frac{1-e^{-x[0]\cdot c[6]}}{b} \right ] + c[2] \cdot x[1]+ c[3]\cdot x[2] + c[4]( x[0]\cdot x[2])+c[5]( x[1]\cdot x[2])$</div>
+![Restricted_model](https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/image/restricted_model.PNG)
