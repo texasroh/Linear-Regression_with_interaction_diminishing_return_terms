@@ -70,7 +70,9 @@ Explain each components' effect to the sales.</p>
 </ul>
 
 <h3>Full Model</h3>
+
 ![Full_model](https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/image/full_model.PNG)
 
 <h3>Restricted Model (Final Model)</h3>
+
 ![Restricted_model](https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/image/restricted_model.PNG)
