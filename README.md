@@ -3,7 +3,10 @@ Make linear regression model with interaction and diminishing return terms. Coul
 
 
 <h2>Academic Project</h2>
-<p>Explanatory Data Analysis.
+<p>Explanatory Data Analysis.<br>
 Explain each components' effect to the sales.</p>
 
-Input Variable
+Input Variables
+<ul>
+  <li></li>
+</ul>
