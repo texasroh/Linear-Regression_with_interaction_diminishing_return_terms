@@ -2,6 +2,14 @@
 Make linear regression model with interaction and diminishing-return terms. Could get p-value of each terms
 
 
+<h2>Example</h2>
+'''
+import 
+model = 
+'''
+
+
+
 
 
 <h2>Academic Project</h2>
