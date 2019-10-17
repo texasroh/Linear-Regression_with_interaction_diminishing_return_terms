@@ -14,7 +14,8 @@ diminishing_return=False, r_columns=None)
 ```
 DataFrame: (required)Data in pandas dataframe format
 
-target: (required)Target column in dataframe
+target: Target column in dataframe
+        If None, first column in dataframe will be target
 
 interaction: boolean, False by default
              If True, add interaction terms
