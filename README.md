@@ -21,7 +21,6 @@ Target
 </ul>
 
 Full Model
-𝑠𝑎𝑙𝑒𝑠=𝑐[0]+𝑐[1]×((1−𝑒^(−𝑟×𝑟𝑒𝑏𝑎𝑡𝑒))/𝑟)+𝑐[2]×((1−𝑒^(−𝑟×𝑎𝑑.𝑠𝑝𝑒𝑛𝑡))/𝑟) +𝑐[3]×𝑥𝑚𝑎𝑠              +(𝑐[4]×𝑟𝑒𝑏𝑎𝑡𝑒×𝑎𝑑.𝑠𝑝𝑒𝑛𝑡)+(𝑐[5]×𝑟𝑒𝑏𝑎𝑡𝑒×𝑥𝑚𝑎𝑠)+(𝑐[6]×𝑎𝑑.𝑠𝑝𝑒𝑛𝑡×𝑥𝑚𝑎𝑠)
 <div>$Sales = c[0] + c[1] \left [ \frac{1-e^{-x[0]\cdot c[7]}}{b} \right ] + c[2] \left [ \frac{1-e^{-x[1]\cdot c[8]}}{b} \right ] + c[3]\cdot x[2] + c[4]( x[0]\cdot x[2])+c[5]( x[1]\cdot x[2])+c[6](x[0]\cdot x[1])$</div>
 
 Restricted Model (Final Model)
