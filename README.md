@@ -6,8 +6,7 @@ Make linear regression model with interaction and diminishing-return terms. Coul
 
 >linear_regression. <strong>LinearRegression</strong>(DataFrame, target=None, interaction=False, diminishing_return=False, r_columns=None)
 
-<h3>Parameters:</h3>
-<p><strong>DataFrame: Data in pandas dataframe format</strong></p>
+<h3>Parameters:</h3>|<p><strong>DataFrame: Data in pandas dataframe format</strong></p>
 <p><strong>target: string (Required)</strong>
   Target column in the DataFrame</p>
 
