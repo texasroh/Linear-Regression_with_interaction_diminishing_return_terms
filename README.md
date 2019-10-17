@@ -8,14 +8,14 @@ Make linear regression model with interaction and diminishing-return terms. Coul
 <p>Explanatory Data Analysis.<br>
 Explain each components' effect to the sales.</p>
 
-Input Variables
+<h3>Input Variables</h3>
 <ul>
   <li>Rebate: $ amount for each purchase.</li>
   <li>Advertisement: MIL$ expenditure in each week.</li>
   <li>X-mas: last 6 weeks every year. Consider as Christmas season sales. (1: on-season, 0: off-season)</li>
 </ul>
 
-Target
+<h3>Target</h3>
 <ul>
   <li>Sales: BIL$ sales in each week.</li>
 </ul>
