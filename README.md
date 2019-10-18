@@ -72,7 +72,7 @@ If Github fail to render notebook file, please try <a href="https://nbviewer.jup
 
 <h3>Target</h3>
 <ul>
-  <li>Sales: BIL$ sales in each week.</li>
+   <li><strong>Sales</strong>: BIL$ sales in each week.</li>
 </ul>
 
 <h3>Full Model</h3>
