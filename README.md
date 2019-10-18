@@ -31,6 +31,8 @@ r_columns: array-like, optional
            Choose columns you want to make diminishing-return
 ```
 
+------
+
 <h2>Example</h2>
 
 ```
@@ -40,7 +42,8 @@ from linear_regression import LinearRegression
 
 data = pd.read_csv('project1.2.csv')
 data[['rebate','ad.spent','sales']] = scale(data[['rebate','ad.spent','sales']])
-model = LinearRegression(data, target='sales', interaction = True, diminishing_return = True, r_columns=['rebate','ad.spent'])
+model = LinearRegression(data, target='sales', interaction = True, 
+                        diminishing_return = True, r_columns=['rebate','ad.spent'])
 model.train()
 model.summary()
 model.plot()
@@ -51,7 +54,7 @@ model.plot()
 ![Example result](https://github.com/texasroh/Linear-Regression_with_interaction_diminishing_return_terms/blob/master/image/project%20result.PNG)
 
 
-
+-------
 
 <h2>Academic Project</h2>
 <p>Explanatory Data Analysis.<br>
